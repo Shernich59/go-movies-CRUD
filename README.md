@@ -43,11 +43,11 @@ This project is a beginner-friendly introduction to building web APIs in Go. It 
 ## Usage
 1. Start the server by running the following command:
 
-""" 
+'
 go build
 go run main.go
 
-"""
+'
 
 2. Interact with the API using tools like cURL or Postman.
 
